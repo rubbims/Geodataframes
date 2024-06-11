@@ -1,0 +1,139 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+2542,EKCH,large_airport,"Copenhagen Kastrup Airport",55.617900848389,12.656000137329,17,EU,Denmark,DK,"Capital Region",DK-84,84,Copenhagen,1,EKCH,CPH,,http://www.cph.dk/en/,https://en.wikipedia.org/wiki/Copenhagen_Airport,"København, Malmö",1020075,2015-09-19T15:12:02+00:00
+2541,EKBI,large_airport,"Billund Airport",55.740496,9.160452,247,EU,Denmark,DK,"South Denmark",DK-83,83,Billund,1,EKBI,BLL,,http://www.billund-airport.dk/?sc_lang=en,https://en.wikipedia.org/wiki/Billund_Airport,,1275,2023-12-04T15:48:16+00:00
+2562,EKYT,medium_airport,"Aalborg Airport",57.094763,9.84993,10,EU,Denmark,DK,"North Jutland",DK-81,81,Aalborg,1,EKYT,AAL,,http://www.aal.dk,https://en.wikipedia.org/wiki/Aalborg_Airport,,750,2023-12-04T15:44:41+00:00
+2540,EKAH,medium_airport,"Aarhus Airport",56.303331,10.618286,82,EU,Denmark,DK,"Central Jutland",DK-82,82,Aarhus,1,EKAH,AAR,,http://www.aar.dk/default.asp?id=87,https://en.wikipedia.org/wiki/Aarhus_Airport,,750,2021-10-06T16:42:48+00:00
+2551,EKRK,medium_airport,"Copenhagen Roskilde Airport",55.585602,12.1314,146,EU,Denmark,DK,Zealand,DK-85,85,Copenhagen,1,EKRK,RKE,,,https://en.wikipedia.org/wiki/Roskilde_Airport,København,575,2024-04-06T20:51:02+00:00
+2552,EKRN,medium_airport,"Bornholm Airport",55.063301,14.7596,52,EU,Denmark,DK,"Capital Region",DK-84,84,Rønne,1,EKRN,RNN,,http://www.bornholms-lufthavn.dk/en/,https://en.wikipedia.org/wiki/Bornholm_Airport,Roenne,750,2024-06-10T12:19:00+00:00
+2553,EKSB,medium_airport,"Sønderborg Airport",54.96440124511719,9.791729927062988,24,EU,Denmark,DK,"South Denmark",DK-83,83,Sønderborg,1,EKSB,SGD,,,https://en.wikipedia.org/wiki/S%C3%B8nderborg_Airport,"Sonderborg, Soenderborg",750,2008-07-13T07:23:11+00:00
+2546,EKKA,medium_airport,"Karup Airport",56.29750061035156,9.124629974365234,170,EU,Denmark,DK,"Central Jutland",DK-82,82,Karup,1,EKKA,KRP,,,https://en.wikipedia.org/wiki/Karup_Airport,,750,2008-07-13T07:16:37+00:00
+2549,EKOD,medium_airport,"Odense Airport",55.47669982910156,10.330900192260742,56,EU,Denmark,DK,"South Denmark",DK-83,83,Odense,1,EKOD,ODE,,,https://en.wikipedia.org/wiki/Odense_Airport,,750,2008-07-13T07:21:05+00:00
+2548,EKMB,medium_airport,"Lolland Falster Maribo Airport",54.699299,11.4401,16,EU,Denmark,DK,Zealand,DK-85,85,"Lolland Falster / Maribo",0,EKMB,MRW,,http://www.lollandfalsterairport.dk/,https://en.wikipedia.org/wiki/Lolland_Falster_Airport,,250,2020-04-18T13:56:13+00:00
+2543,EKEB,medium_airport,"Esbjerg Airport",55.525902,8.5534,97,EU,Denmark,DK,"South Denmark",DK-83,83,Esbjerg,1,EKEB,EBJ,,http://www.esbjerg-lufthavn.dk/en/,https://en.wikipedia.org/wiki/Esbjerg_Airport,"offshore, North Sea",750,2018-02-13T13:02:51+00:00
+2555,EKSP,medium_airport,"Skrydstrup Air Base",55.221048,9.26702,141,EU,Denmark,DK,"South Denmark",DK-83,83,Vojens,0,EKSP,SKS,,,https://en.wikipedia.org/wiki/Fighter_Wing_Skrydstrup,,375,2016-06-19T06:24:26+00:00
+2547,EKLS,small_airport,"Læsø Airport",57.277199,11.0001,25,EU,Denmark,DK,"North Jutland",DK-81,81,Læsø,1,EKLS,BYR,,,https://en.wikipedia.org/wiki/L%C3%A6s%C3%B8_Airport,"Laeso, Laesoe",100,2024-04-07T13:21:55+00:00
+29235,EKEL,small_airport,"Endelave Airfield",55.756753,10.248697,15,EU,Denmark,DK,"Central Jutland",DK-82,82,Endelave,0,EKEL,,,http://www.toftair.dk/,,,50,2021-11-28T07:54:08+00:00
+29248,EKST,small_airport,"Sydfyn (Tasinge) Airfield",55.016602,10.5633,7,EU,Denmark,DK,"South Denmark",DK-83,83,Tasinge,1,EKST,,,,https://da.wikipedia.org/wiki/Sydfyns_Flyveplads,,100,2024-05-20T12:43:39+00:00
+29647,EKAE,small_airport,"Ærø Airfield",54.852798,10.4564,3,EU,Denmark,DK,"South Denmark",DK-83,83,Ærø,1,EKAE,,,,https://en.wikipedia.org/wiki/%C3%86r%C3%B8_Airport,"Aero, Aeroe",100,2024-05-16T17:02:09+00:00
+29239,EKKL,small_airport,"Kalundborg Airfield",55.700298,11.25,1,EU,Denmark,DK,Zealand,DK-85,85,Kalundborg,0,EKKL,,,,https://en.wikipedia.org/wiki/Kalundborg_Airfield,,50,2024-05-16T17:05:14+00:00
+2554,EKSN,medium_airport,"Sindal Airport",57.503502,10.2294,92,EU,Denmark,DK,"North Jutland",DK-81,81,Sindal,1,EKSN,CNL,,http://www.eksn.dk/,https://en.wikipedia.org/wiki/Sindal_Airport,,750,2018-09-13T12:56:52+00:00
+2557,EKTS,medium_airport,"Thisted Airport",57.06880187988281,8.705220222473145,23,EU,Denmark,DK,"North Jutland",DK-81,81,Thisted,0,EKTS,TED,,,https://en.wikipedia.org/wiki/Thisted_Airport,,375,2009-02-07T22:14:32+00:00
+29234,EKAT,small_airport,"Anholt Flyveplads",56.698898,11.5559,23,EU,Denmark,DK,"Central Jutland",DK-82,82,Anholt,1,EKAT,,,http://www.anholt.dk/anholt_flyveplads.htm,,,100,2024-04-06T20:52:10+00:00
+29244,EKRS,small_airport,"Ringsted Airfield",55.4258,11.8067,113,EU,Denmark,DK,Zealand,DK-85,85,Ringsted,1,EKRS,,,,https://da.wikipedia.org/wiki/Ringsted_Flyveplads,,100,2024-05-20T12:43:15+00:00
+29241,EKNM,small_airport,"Morsø Airfield, Tødsø",56.824402,8.78667,53,EU,Denmark,DK,"North Jutland",DK-81,81,Morsø,0,EKNM,,,,,"Mors, Morso Airport Todso, Morsoe Airport Toedsoe",50,2021-11-27T05:21:10+00:00
+29242,EKRD,small_airport,"Randers Airfield",56.506599,10.0364,139,EU,Denmark,DK,"Central Jutland",DK-82,82,Randers,0,EKRD,,,,https://en.wikipedia.org/wiki/Randers_Airport,,50,2024-05-16T17:06:02+00:00
+29247,EKSS,small_airport,"Samsø Airfield",55.8895,10.6137,1,EU,Denmark,DK,"Central Jutland",DK-82,82,Samsø,0,EKSS,,,,https://en.wikipedia.org/wiki/Sams%C3%B8_Airport,"Samso, Samsoe",50,2024-05-16T17:06:23+00:00
+29249,EKTD,small_airport,"Tønder Airfield",54.929699,8.84057,1,EU,Denmark,DK,"South Denmark",DK-83,83,Tønder,0,EKTD,,,,https://da.wikipedia.org/wiki/T%C3%B8nder_Flyveplads,"Tonder, Toender",50,2024-05-20T12:43:56+00:00
+2558,EKVD,medium_airport,"Kolding Vamdrup Airfield",55.436298,9.33092,143,EU,Denmark,DK,"South Denmark",DK-83,83,"Kolding / Vamdrup",0,EKVD,,,,https://da.wikipedia.org/wiki/Kolding_Lufthavn,,250,2024-05-20T12:44:25+00:00
+29233,EKAL,closed,"Allerød Airport",55.870300293,12.3155002594,135,EU,Denmark,DK,"Capital Region",DK-84,84,Allerød,0,,,,,,"Allerod, Alleroed, EKAL",50,2012-04-10T12:10:54+00:00
+29236,EKHG,small_airport,"Herning Airfield",56.1847,9.04445,167,EU,Denmark,DK,"Central Jutland",DK-82,82,Herning,0,EKHG,,,http://www.ekhg.dk/?lang=en,https://en.wikipedia.org/wiki/Herning_Airport,,50,2024-05-16T17:04:34+00:00
+29237,EKHK,small_airport,"Holbaek (Ny Hagested) Airfield",55.733919,11.604706,2,EU,Denmark,DK,Zealand,DK-85,85,Holbaek,0,EKHK,,,https://www.ekhk.dk/,https://da.wikipedia.org/wiki/Holb%C3%A6k_Flyveplads,,50,2023-09-17T04:35:39+00:00
+2550,EKPB,small_airport,"Kruså-Padborg Airfield",54.8703,9.27901,88,EU,Denmark,DK,"South Denmark",DK-83,83,"Kruså / Padborg",0,EKPB,,,,,,50,2021-06-25T02:40:50+00:00
+29251,EKVB,small_airport,"Viborg Airfield",56.41,9.4091,75,EU,Denmark,DK,"Central Jutland",DK-82,82,Viborg,0,EKVB,,,,https://da.wikipedia.org/wiki/Viborg_Flyveplads,,50,2024-05-20T12:44:11+00:00
+351549,EKCC,seaplane_base,"København Vandflyveplads",55.69119,12.60009,,EU,Denmark,DK,"Capital Region",DK-84,84,,1,EKCC,,,,,,0,2024-04-06T20:53:29+00:00
+2561,EKVJ,medium_airport,"Stauning Airport",55.990101,8.35391,17,EU,Denmark,DK,"Central Jutland",DK-82,82,"Skjern / Ringkøbing",0,EKVJ,STA,,,https://en.wikipedia.org/wiki/Stauning_Vestjylland_Airport,,275,2024-04-07T13:23:01+00:00
+2556,EKSV,medium_airport,"Skive Airport",56.550201,9.17298,74,EU,Denmark,DK,"Central Jutland",DK-82,82,Skive,0,EKSV,SQW,,,https://en.wikipedia.org/wiki/Skive_Airport,,250,2024-04-07T13:22:30+00:00
+318291,EKHM,small_airport,"Hammer Glider Field",55.908195,9.446358,290,EU,Denmark,DK,"Central Jutland",DK-82,82,,0,EKHM,,,http://www.vsk.dk/,,"Vejle Svæveflyveklub",50,2018-07-06T03:06:24+00:00
+2560,EKVH,small_airport,"Vesthimmerlands Flyveplads",56.846901,9.45861,119,EU,Denmark,DK,"North Jutland",DK-81,81,Aars,0,EKVH,,,,https://en.wikipedia.org/wiki/Aars_Airport,"Vesthimmerland, Hornum",50,2016-06-19T04:57:34+00:00
+298484,DK-0001,closed,"Femø Airfield",54.984115,11.537662,2,EU,Denmark,DK,Zealand,DK-85,85,Femø,0,,,,http://www.femoekro.dk/,,"EK62, EKFM",50,2022-04-11T18:40:32+00:00
+2545,EKHV,small_airport,"Haderslev Airfield",55.3022,9.5225,81,EU,Denmark,DK,"South Denmark",DK-83,83,Haderslev,0,EKHV,,,,,,50,2024-02-01T11:58:57+00:00
+29238,EKHS,closed,"Hadsund Airfield",56.755924,10.228829,8,EU,Denmark,DK,"North Jutland",DK-81,81,Hadsund,0,,,,,,"EKHS, EKHS",50,2019-04-04T06:57:54+00:00
+30041,EKMN,small_airport,"Kostervig Mon Airfield",54.96545,12.196483,3,EU,Denmark,DK,Zealand,DK-85,85,Koster,0,EKMN,,,http://www.ekmn.dk/,,,50,2024-02-01T11:58:22+00:00
+30324,EKRA,small_airport,"Rarup Airfield",55.778599,9.93889,131,EU,Denmark,DK,"Central Jutland",DK-82,82,Rarup,0,EKRA,,,,,,50,2021-06-25T01:59:02+00:00
+321002,DK-0028,small_airport,"Varde Airfield",55.607778,8.440278,,EU,Denmark,DK,"South Denmark",DK-83,83,Varde,0,EKVA,,,,,,50,2022-10-13T15:57:56+00:00
+326142,EKAC,seaplane_base,"Aarhus Seaplane Terminal",56.152602,10.25106,,EU,Denmark,DK,"Central Jutland",DK-82,82,Aarhus,1,EKAC,,,,,,0,2024-04-06T20:53:16+00:00
+29250,EKVA,closed,"Vandel Air Base",55.701,9.21358,250,EU,Denmark,DK,"South Denmark",DK-83,83,Vandel,0,,,,,https://da.wikipedia.org/wiki/Flyvestation_Vandel,EKVA,250,2022-10-13T15:57:44+00:00
+353146,DK-0050,small_airport,"Hundelev Private Airstrip",57.422473,9.862525,,EU,Denmark,DK,"North Jutland",DK-81,81,,0,,,,,,,50,2022-03-01T04:41:00+00:00
+320947,DK-0017,small_airport,Ejstrupholm,55.9911111,9.2680556,,EU,Denmark,DK,"Central Jutland",DK-82,82,,0,,,,,,,50,2016-10-29T03:01:04+00:00
+347231,DK-0044,small_airport,"Emmelev Flyveplads",56.47528,10.78563,,EU,Denmark,DK,"Central Jutland",DK-82,82,,0,,,,,,,50,2021-08-27T04:46:51+00:00
+347254,DK-0045,small_airport,"Fårbæk Private Airstrip",56.367199,9.067647,,EU,Denmark,DK,"Central Jutland",DK-82,82,,0,,,,,,,50,2021-08-28T04:31:40+00:00
+347612,DK-0046,small_airport,"Solbjerg Flyveplads",56.057541,10.08164,,EU,Denmark,DK,"Central Jutland",DK-82,82,,0,,,,,,,50,2021-09-15T05:45:34+00:00
+320966,DK-0025,small_airport,"Rolfsted Airfield",55.325833,10.581944,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,EKRO,,,,,,50,2022-10-13T15:54:01+00:00
+330092,DK-0036,small_airport,"Revninge Flyveplads",55.418985,10.670596,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,,,,,,,50,2019-01-15T06:23:06+00:00
+345141,DK-0043,small_airport,"Kaleko Airstrip",55.09864,10.2688,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,,,,,,,50,2021-06-03T13:25:03+00:00
+347942,DK-0047,small_airport,"Drejø Airstrip",54.9741,10.39631,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,,,,,,,50,2021-09-27T04:49:24+00:00
+348502,DK-0048,small_airport,"Vester Åby Private Airstrip",55.092503,10.368004,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,,,,,,,50,2021-10-08T09:41:25+00:00
+348971,DK-0049,small_airport,"Bramming Airstrip",55.53471,8.79486,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,,,,,,,50,2021-10-20T06:19:03+00:00
+316412,DK-0002,closed,"Orø Flyveplads",55.78752,11.843064,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,,,,,,,50,2023-04-06T05:41:48+00:00
+316647,EKFR,small_airport,Freerslev,55.898611,12.245,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,EKFR,,,,,,50,2016-05-15T14:20:10+00:00
+320950,DK-0020,small_airport,"Frederikssund Syd Flyveplads",55.814761,12.081471,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,,,,,,,50,2016-10-29T03:23:23+00:00
+320954,DK-0022,small_airport,"Frederikssund Nord Glider Field",55.852511,12.074404,,EU,Denmark,DK,"Capital Region",DK-84,84,,0,,,,http://www.f-f-f.dk,,,50,2016-10-29T11:59:24+00:00
+505342,EKML,small_airport,"Måløv Airfield UL",55.751716,12.280226,56,EU,Denmark,DK,"Capital Region",DK-84,84,,0,EKML,,,,,Albatros,50,2022-12-08T13:20:50+00:00
+315603,EKSL,small_airport,"Slaglille Svæveflyvecenter",55.452222,11.644722,,EU,Denmark,DK,Zealand,DK-85,85,,0,EKSL,,,,,,50,2022-01-09T23:11:36+00:00
+320938,DK-0015,small_airport,Aversi,55.3438217,11.8350602,,EU,Denmark,DK,Zealand,DK-85,85,,0,,,,http://aversi.dk,,,50,2016-10-28T04:31:30+00:00
+320965,DK-0024,small_airport,"Orupgaard Flyveplads",54.7702778,11.9472222,,EU,Denmark,DK,Zealand,DK-85,85,,0,,,,,,,50,2016-10-29T23:34:42+00:00
+326894,DK-0034,small_airport,"Slagelse Private Airstrip",55.3599187,11.3096013,,EU,Denmark,DK,Zealand,DK-85,85,,0,,,,,,,50,2018-04-01T12:39:11+00:00
+319130,DK-0010,small_airport,"True Gliderfield",56.178925,10.076621,,EU,Denmark,DK,"Central Jutland",DK-82,82,Aarhus,0,EKAS,,,http://www.aasvk.dk/,https://da.wikipedia.org/wiki/True_Sv%C3%A6veflyveplads,Aarhus,50,2024-05-21T04:47:04+00:00
+318327,EKHE,small_airport,"Annisse flyveplads",55.984722,12.214444,,EU,Denmark,DK,"Capital Region",DK-84,84,Annisse,0,EKHE,,,,,,50,2022-01-09T18:22:25+00:00
+318287,EKBH,small_airport,"Svæveflyvecenter Arnborg",56.011944,9.0125,,EU,Denmark,DK,"Central Jutland",DK-82,82,Arnborg,0,EKAB,,,,https://da.wikipedia.org/wiki/Sv%C3%A6veflyvecenter_Arnborg,"Bolhede, Arnborg",50,2024-05-20T12:42:00+00:00
+31000,EKAV,closed,"Avnø Air Base",55.083,11.783,13,EU,Denmark,DK,Zealand,DK-85,85,Avnø,0,,,,,,"Avno, Avnoe, EKAV",50,2016-07-07T15:25:49+00:00
+331803,DK-0038,small_airport,"Bjørnø Flyveplads",55.0678624,10.243161,,EU,Denmark,DK,"South Denmark",DK-83,83,"Bjørnø Island",0,,,,,,,50,2019-08-01T05:43:34+00:00
+318903,DK-0005,small_airport,"Bogense Flyveplads",55.543022,10.032566,,EU,Denmark,DK,"South Denmark",DK-83,83,Bogense,0,,,,,,,50,2016-06-19T05:14:23+00:00
+319129,DK-0009,small_airport,"Bolhede Glider Field",55.631971,8.755736,,EU,Denmark,DK,"South Denmark",DK-83,83,Bolhede,0,EKBH,,,http://bolhede.dk/,,,50,2016-10-27T06:23:28+00:00
+317475,DK-0004,small_airport,Brædstrup,55.943611,9.653333,,EU,Denmark,DK,"Central Jutland",DK-82,82,Brædstrup,0,EKBR,,,http://www.ekbr.dk/,,,50,2016-05-16T00:44:35+00:00
+322677,DK-0031,small_airport,"North Jutland Ultralight Flying Club",57.247811,9.940858,,EU,Denmark,DK,"North Jutland",DK-81,81,Brønderslev,0,,,,http://www.nulf.dk,,"Nordjyllands Ultra Light Flyveklub",50,2021-03-02T12:06:46+00:00
+319112,DK-0007,small_airport,"Ejstruphede Glider Field",56.020679,8.692492,100,EU,Denmark,DK,"Central Jutland",DK-82,82,Ejstruphede,0,,,,http://svaeveflyvning.dk/side1,,,50,2016-06-24T10:04:39+00:00
+320949,DK-0019,small_airport,"Estruplund Flyveplads",56.5577778,10.3583333,,EU,Denmark,DK,"Central Jutland",DK-82,82,Estruplund,0,,,,,,,50,2016-10-29T03:16:02+00:00
+318288,EKKS,small_airport,"Kongsted Svæveflyveplads Glider",55.2522222,12.0627778,,EU,Denmark,DK,Zealand,DK-85,85,Faxe,0,EKKS,,,,,Kongsted,50,2016-06-05T02:25:30+00:00
+29884,EKFU,small_airport,"Fur Airstrip",56.824886,8.987213,30,EU,Denmark,DK,"Central Jutland",DK-82,82,Fur,0,EKFU,,,,,"Salling peninsula, Skive",50,2021-11-28T07:56:52+00:00
+320953,DK-0021,small_airport,"Gesten Glider Field",55.550967,9.189979,,EU,Denmark,DK,"South Denmark",DK-83,83,Gesten,0,EKGE,,,,,,50,2022-10-13T15:53:38+00:00
+331156,DK-0037,small_airport,"Gilleleje Airstrip",56.106298,12.323405,,EU,Denmark,DK,"Capital Region",DK-84,84,Gilleleje,0,,,,,,,50,2022-01-09T18:23:50+00:00
+29916,EKGR,small_airport,"Grenaa Airfield",56.442501,10.9306,20,EU,Denmark,DK,"Central Jutland",DK-82,82,Grenaa,0,EKGR,,,,,Grenå,50,2021-08-27T04:47:20+00:00
+320948,DK-0018,small_airport,"Filskov Airfield",55.81478,9.047152,,EU,Denmark,DK,"South Denmark",DK-83,83,Grindsted,0,,,,,,,50,2021-02-03T17:46:15+00:00
+320964,DK-0023,small_airport,"Grønbæk Airfield",56.270588,9.623194,,EU,Denmark,DK,"Central Jutland",DK-82,82,Grønbæk,0,,,,,,"Grønbæk Flyveplads",50,2021-03-02T12:10:58+00:00
+2544,EKGH,small_airport,"Grønholt Hillerød Airfield",55.941399,12.3822,97,EU,Denmark,DK,"Capital Region",DK-84,84,Grønholt,0,EKGH,,,,https://da.wikipedia.org/wiki/Gr%C3%B8nholt_Flyveplads,"Gronholt, Groenholt, Hillerod, Hilleroed",50,2024-05-20T12:42:29+00:00
+318289,EKGO,small_airport,"Gørlev Flyveplads",55.5527778,11.1952778,,EU,Denmark,DK,Zealand,DK-85,85,Gørlev,0,EKGO,,,,,Gorlev,50,2016-06-05T02:39:49+00:00
+320131,EKGL,small_airport,"Gørløse Glider Field",55.8855556,12.2280556,,EU,Denmark,DK,"Capital Region",DK-84,84,Gørløse,0,EKGL,,,http://www.glider.dk/node/357,,,50,2016-09-06T13:05:50+00:00
+31002,EKHO,small_airport,"Lindtorp Flyvecenter",56.396702,8.44194,49,EU,Denmark,DK,"Central Jutland",DK-82,82,Holstebro,0,EKHO,,,,,,50,2021-11-28T07:59:33+00:00
+319127,DK-0008,small_airport,"Holstebro Glider Field",56.306223,8.586466,,EU,Denmark,DK,"Central Jutland",DK-82,82,Holstebro,0,,,,http://www.flyvecenter.dk/,,,50,2016-06-27T05:07:32+00:00
+321105,DK-0030,small_airport,"Holsted Private Airfield",55.561962,8.936523,,EU,Denmark,DK,"South Denmark",DK-83,83,Holsted,0,,,,,,,50,2022-10-18T16:16:34+00:00
+506663,DK-0051,small_airport,"Grimlund/Hoven Airstrip",55.822478,8.717765,,EU,Denmark,DK,"Central Jutland",DK-82,82,Hoven,0,,,,,,,50,2023-12-02T13:40:45+00:00
+340594,DK-0039,small_airport,"Hesselø Airstrip",56.198194,11.701118,,EU,Denmark,DK,"Capital Region",DK-84,84,Hundested,0,,,,,,,50,2021-02-03T17:35:06+00:00
+29252,EKVL,closed,"Værløse Air Base",55.769501,12.3239,42,EU,Denmark,DK,"Capital Region",DK-84,84,"Kirke Værløse",0,,,,,https://en.wikipedia.org/wiki/V%C3%A6rl%C3%B8se_Air_Base,"EKVL, Vaerlose, EKVL",50,2022-01-16T11:00:04+00:00
+30040,EKKO,small_airport,"Korsør Airfield",55.336899,11.2417,39,EU,Denmark,DK,Zealand,DK-85,85,Korsør,0,EKKO,,,,,,50,2024-02-01T11:57:44+00:00
+320939,DK-0016,small_airport,"Sølager Airfiield",55.949956,11.925052,,EU,Denmark,DK,"Capital Region",DK-84,84,Kulhuse,0,,,,,,,50,2021-02-03T17:45:34+00:00
+29240,EKLV,small_airport,"Lemvig Airfield",56.502998,8.31133,97,EU,Denmark,DK,"Central Jutland",DK-82,82,Lemvig,0,EKLV,,,http://www.eklv.dk/,https://en.wikipedia.org/wiki/Lemvig_Airfield,,50,2024-05-16T17:05:29+00:00
+320855,DK-0013,small_airport,"Næstved Airfield",55.210902,11.717592,,EU,Denmark,DK,Zealand,DK-85,85,Naestved,0,,,,,,,50,2021-02-03T17:48:07+00:00
+30179,EKNS,closed,"Nakskov Airfield",54.8172,11.1308,3,EU,Denmark,DK,Zealand,DK-85,85,Nakskov,0,,,,,,"EKNS, EKNS",50,2016-10-28T05:34:05+00:00
+322702,DK-0032,small_airport,"Vejrø Flyveplads",55.025703,11.347842,1,EU,Denmark,DK,Zealand,DK-85,85,Nakskov,0,EKVO,,,http://www.vejroe.dk/flyveplads.aspx,,,50,2017-06-12T04:12:02+00:00
+321088,DK-0029,small_airport,"Sulkendrup Airstrip",55.283692,10.714227,,EU,Denmark,DK,"South Denmark",DK-83,83,Nyborg,0,,,,,,,50,2024-02-01T11:59:45+00:00
+340595,DK-0040,small_airport,"Tunø Airstrip",55.956832,10.409408,,EU,Denmark,DK,"Central Jutland",DK-82,82,Odder,0,,,,,,,50,2021-02-03T17:36:44+00:00
+29243,EKRR,closed,"Ro Airport",55.2103004456,14.878600120500002,325,EU,Denmark,DK,"Capital Region",DK-84,84,Ro,0,,,,,,"EKRR, EKRR",50,2012-03-15T12:25:03+00:00
+319090,DK-0006,small_airport,"Rødekro Flyveplads",55.0786111,9.3013889,,EU,Denmark,DK,"South Denmark",DK-83,83,Rødekro,0,,,,,,,50,2016-06-24T07:29:47+00:00
+317784,EKCR,small_airport,Christianshede,56.105,9.393056,,EU,Denmark,DK,"Central Jutland",DK-82,82,Silkeborg,0,EKCR,,,,,"Ekcr, Christianshede, Silkeborg flyveplads, Silkeborg flyveklub",50,2019-05-01T15:35:40+00:00
+326132,DK-0033,small_airport,"Bjedstrup Airstrip",56.071002,9.867514,,EU,Denmark,DK,"Central Jutland",DK-82,82,Skanderborg,0,,,,,,,50,2021-02-03T17:47:05+00:00
+29246,EKSD,small_airport,"Spjald Airfield",56.102699,8.51423,249,EU,Denmark,DK,"Central Jutland",DK-82,82,Spjald,0,EKSD,,,,,,50,2021-06-25T01:57:38+00:00
+29245,EKSA,small_airport,"Sæby (Ottestrup) Airfield",57.346699,10.407,110,EU,Denmark,DK,"North Jutland",DK-81,81,Sæby,0,EKSA,,,,,Saeby,50,2021-11-27T05:19:55+00:00
+320968,DK-0026,small_airport,"Sønder Felding Airfield",55.946667,8.743333,,EU,Denmark,DK,"Central Jutland",DK-82,82,"Sønder Felding",0,,,,,,,50,2021-02-03T17:44:41+00:00
+320935,DK-0014,small_airport,"Nordborg Flyveplads",55.07485,9.753379,,EU,Denmark,DK,"South Denmark",DK-83,83,Sønderborg,0,EKNB,,,,,Nordborg/Pøl,50,2016-10-28T00:35:48+00:00
+316824,DK-0003,small_airport,"Tølløse Flying Club Glider Field",55.581644,11.759105,,EU,Denmark,DK,Zealand,DK-85,85,Tølløse,0,EKTO,,,http://www.cumulus.dk/,,"Sjaellands Svaeveflyvecentrum",50,2022-10-21T12:53:02+00:00
+331410,DK-0035,small_airport,"Ølgod Airfield",55.8334107,8.5528725,,EU,Denmark,DK,"South Denmark",DK-83,83,Vallund,0,,,,,,,50,2019-06-13T06:12:26+00:00
+317884,EKFS,small_airport,"Vøjstrup Glider Field",55.2477778,10.2041667,,EU,Denmark,DK,"Central Jutland",DK-82,82,Vøjstrup,0,EKFS,,,,,"Broby, Vøjstrup",50,2016-05-15T01:10:15+00:00
+345938,EKCB,heliport,"Arslev Heliport",56.134444,10.081111,132,EU,Denmark,DK,"Central Jutland",DK-82,82,,0,EKCB,,,,,,0,2021-11-20T06:34:19+00:00
+316929,EKSG,heliport,"Schelenburg God Heliport",55.543889,10.635833,,EU,Denmark,DK,"South Denmark",DK-83,83,,0,EKSG,,,,,,0,2022-01-09T18:25:32+00:00
+529369,EKRB,heliport,"Bornholm Hems Heliport",55.090833,14.708056,62,EU,Denmark,DK,"Capital Region",DK-84,84,,0,EKRB,,,,,,0,2024-05-14T14:45:08+00:00
+44008,EKCE,heliport,"Cecilie Helideck",56.40211486816406,4.759611129760742,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKCE,,,,,,0,2009-04-07T13:12:45+00:00
+44009,EKDB,heliport,"Dan B Helideck",55.46903991699219,5.133056163787842,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKDB,,,,,,0,2009-04-07T13:12:47+00:00
+44010,EKDE,heliport,"Dan E Helideck",55.48064041137695,5.116167068481445,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKDE,,,,,,0,2009-04-07T13:12:50+00:00
+44011,EKDF,heliport,"Dan F Helideck",55.47809982299805,5.105527877807617,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKDF,,,,,,0,2009-04-07T13:12:52+00:00
+44012,EKGC,heliport,"Gorm C Helideck",55.57984924316406,4.758889198303223,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKGC,,,,,,0,2009-04-07T13:12:54+00:00
+44013,EKHA,heliport,"Halfdan A Helideck",55.53085708618164,5.004167079925537,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKHA,,,,,,0,2009-04-07T13:12:55+00:00
+44014,EKHB,heliport,"Halfdan B Helideck",55.538612365722656,5.033332824707031,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKHB,,,,,,0,2009-04-07T13:12:58+00:00
+44015,EKHD,heliport,"Harald Helideck",56.344120025634766,4.27191686630249,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKHD,,,,,,0,2009-04-07T13:13:00+00:00
+44016,EKHR,heliport,"Horns Rev A Helideck",55.508949279785156,7.874917030334473,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKHR,,,,,,0,2009-04-07T13:13:02+00:00
+44017,EKHN,heliport,"Horns Rev B Helideck",55.60016632080078,7.623805999755859,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKHN,,,,,,0,2009-04-07T13:13:04+00:00
+44018,EKNI,heliport,"Nini Helideck",56.640804290771484,5.32111120223999,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKNI,,,,,,0,2009-04-07T13:13:06+00:00
+44019,EKRF,heliport,"Rolf Helideck",55.60615539550781,4.4913330078125,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKRF,,,,,,0,2009-04-07T13:13:08+00:00
+44020,EKSI,heliport,"Siri Helideck",56.48271560668945,4.911110877990723,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKSI,,,,,,0,2009-04-07T13:13:10+00:00
+44021,EKSC,heliport,"Skjold Helideck",55.531593322753906,4.906667232513428,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKSC,,,,,,0,2009-04-07T13:13:12+00:00
+44022,EKAR,heliport,"South (Syd) Arne Helideck",56.08028030395508,4.23038911819458,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKAR,,,,,,0,2009-04-07T13:13:14+00:00
+44023,EKTE,heliport,"Tyra E Helideck",55.72152328491211,4.802055835723877,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKTE,,,,,,0,2009-04-07T13:13:15+00:00
+44024,EKTW,heliport,"Tyra W Helideck",55.716529846191406,4.750306129455566,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKTW,,,,,,0,2009-04-07T13:13:17+00:00
+526439,EKAF,heliport,A6A,55.7905,3.9925,,EU,Denmark,DK,"*Offshore Oil Platforms",DK-XX,XX,,0,EKAF,,,,,,0,2024-04-22T12:37:39+00:00
+341523,DK-0041,heliport,"Vestre Fjordpark Heliport",57.05865,9.88779,,EU,Denmark,DK,"North Jutland",DK-81,81,Aalborg,0,,,,,,,0,2021-03-02T12:05:18+00:00
+319199,DK-0012,heliport,"Aarhus University Hospital Helipad",56.192716,10.167679,,EU,Denmark,DK,"Central Jutland",DK-82,82,Åarhus,0,,,,,,,0,2021-03-02T12:08:33+00:00
+341524,DK-0042,heliport,"Aarhus University Hospital Helipad B",56.19078,10.17492,,EU,Denmark,DK,"Central Jutland",DK-82,82,Aarhus,0,,,,,,,0,2021-03-02T12:09:06+00:00
+319165,DK-0011,heliport,"Rigshospitalet Helipad",55.696662,12.566769,,EU,Denmark,DK,"Capital Region",DK-84,84,Copenhagen,0,,,,,,,0,2016-06-28T04:42:54+00:00
+318902,EKHL,heliport,"Holsted Helipad",55.496667,8.910833,,EU,Denmark,DK,"South Denmark",DK-83,83,Holsted,0,EKHL,,,,,"Ben Air",0,2022-10-22T14:10:27+00:00
+520626,DK-0052,heliport,"Korsør Helipad",55.35425,11.1243,9,EU,Denmark,DK,Zealand,DK-85,85,Korsør,0,,,,,,,0,2024-02-16T21:34:37+00:00
+320998,DK-0027,closed,"Bodilsker Airstrip",55.063671,15.053152,,EU,Denmark,DK,"Capital Region",DK-84,84,Nexø,0,,,,,,,0,2021-02-03T17:42:14+00:00
